@@ -1,0 +1,11 @@
+li,
+ul {
+  background-color: #44345b;
+  border: unset;
+  border-radius: unset;
+}
+
+li a {
+  color: #fff;
+  text-decoration: none;
+}

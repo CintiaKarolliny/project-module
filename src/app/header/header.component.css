@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #44345b;
+}
+svg path {
+  fill: #fff;
+}
+
+.navbar-toggle,
+a {
+  color: #fff;
+}
+
+a {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
